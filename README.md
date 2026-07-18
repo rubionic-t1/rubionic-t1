@@ -1,45 +1,50 @@
 # 👋 Hi, I'm Rubab (Rubionic)
 
-Pentester & Offensive Security — I map misconfigs and defaults into reliable attack chains.
+Offensive Security Consultant.
 
+I help organizations make better security assessment decisions by reviewing scope, challenging assumptions, and improving technical judgment before testing begins.
 
----
-
-## 🛠 Working on
-Tunneling/pivoting guides + pentest recipes.
-
-## 🌱 Learning
-AD attacks, port redirection, AppSec reporting.
-
-## 💬 Ask me about
-Misconfiguration chains, internal pentesting, tunneling.
-
-## ⚡ Fun fact
-I prefer quiet execution and loud evidence.
+At the same time, I actively practice offensive security through penetration testing and bug bounty research.
 
 ---
 
-## 🌐 Socials
+## 🛠 Current Focus
+
+- Security assessment review
+- Penetration testing
+- Bug bounty research
+- Offensive security tooling
+
+---
+
+## 🌱 Currently Learning
+
+- Authorization & access control
+- Business logic testing
+- Security assessment design
+
+---
+
+## 💬 Ask Me About
+
+- Web & API penetration testing
+- Security assessment scoping
+- Proposal & SOW reviews
+- Offensive security methodology
+
+---
+
+## ⚡ Philosophy
+
+> The quality of a security assessment is usually decided before the first request is ever sent.
+
+---
+
+## 🌐 Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-rubab)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fatima_rubab)
-
----
-
-# 💻 Tech Stack  
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2C2C2C?style=for-the-badge&logo=nmap&logoColor=white)
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FE7438?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logo=neo4j&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fatimarubab_1)
 
 ---
 
