@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Rubab Fatima!
+# 👋 About Me
 
 I conduct security assessments, question scopes, challenge assumptions, review technical approaches, and make sure the work makes sense before testing even begins.
 
