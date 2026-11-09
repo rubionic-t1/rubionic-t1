@@ -1,42 +1,42 @@
-# 👋 Hi, I'm Rubab (Rubionic)
 
-Offensive Security Consultant.
+# 👋 Hi, I'm Rubab Fatima!
 
-I help organizations make better security assessment decisions by reviewing scope, challenging assumptions, and improving technical judgment before testing begins.
-
-At the same time, I actively practice offensive security through penetration testing and bug bounty research.
+I conduct security assessments, question scopes, challenge assumptions, review technical approaches, and make sure the work makes sense before testing even begins.
 
 ---
 
 ## 🛠 Current Focus
 
-- Security assessment review
+- Security assessment strategy & scoping
 - Penetration testing
 - Bug bounty research
+- Cloud & identity security
 - Offensive security tooling
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Authorization & access control
-- Business logic testing
-- Security assessment design
+- Azure & Entra ID
+- Active Directory attack paths
+- Cloud security labs
+- Offensive security methodology
 
 ---
 
 ## 💬 Ask Me About
 
-- Web & API penetration testing
-- Security assessment scoping
+- Web, API & infrastructure pentesting
+- Security assessment scoping & estimation
 - Proposal & SOW reviews
-- Offensive security methodology
+- Technical assessment reviews
 
 ---
 
 ## ⚡ Philosophy
 
-> The quality of a security assessment is usually decided before the first request is ever sent.
+> Know what you're testing, why you're testing it, and what the results are supposed to change for the business.
+
 
 ---
 
